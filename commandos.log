@@ -1,0 +1,8 @@
+Git add
+Remote add origin
+Touch
+Git commit -m "Bericht"
+git branch zandbak
+git checkout zandbak
+git rebase
+git merge
